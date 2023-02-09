@@ -1,5 +1,14 @@
 //Hollw rectangle
 //manish kumar
+/*
+
+*****
+*   *
+*   *
+*   *
+*****
+
+*/
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
